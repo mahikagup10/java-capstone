@@ -1,0 +1,18 @@
+{
+  "frontendFolder": "/Users/mahika/OOADJ LAB/my-todo/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/Users/mahika/OOADJ LAB/my-todo/frontend/generated/jar-resources",
+  "staticOutput": "/Users/mahika/OOADJ LAB/my-todo/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/Users/mahika/OOADJ LAB/my-todo/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/Users/mahika/OOADJ LAB/my-todo/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/Users/mahika/OOADJ LAB/my-todo/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "/Users/mahika/OOADJ LAB/my-todo/src/main/dev-bundle/config",
+  "jarResourcesFolder": "/Users/mahika/OOADJ LAB/my-todo/frontend/generated/jar-resources",
+  "generatedFlowImportsFolder": "target/frontend",
+  "themeName": "mytodo",
+  "clientServiceWorkerSource": "/Users/mahika/OOADJ LAB/my-todo/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}

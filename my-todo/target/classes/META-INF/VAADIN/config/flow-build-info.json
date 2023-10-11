@@ -1,0 +1,17 @@
+{
+  "productionMode": false,
+  "eagerServerLoad": false,
+  "npmFolder": "/Users/mahika/OOADJ LAB/my-todo",
+  "node.version": "v18.14.1",
+  "node.download.root": "https://nodejs.org/dist/",
+  "generatedFolder": "/Users/mahika/OOADJ LAB/my-todo/target/frontend",
+  "frontendFolder": "/Users/mahika/OOADJ LAB/my-todo/frontend",
+  "connect.javaSourceFolder": "/Users/mahika/OOADJ LAB/my-todo/src/main/java",
+  "javaResourceFolder": "/Users/mahika/OOADJ LAB/my-todo/src/main/resources",
+  "connect.applicationProperties": "/Users/mahika/OOADJ LAB/my-todo/src/main/resources/application.properties",
+  "connect.openApiFile": "/Users/mahika/OOADJ LAB/my-todo/target/generated-resources/openapi.json",
+  "project.frontend.generated": "/Users/mahika/OOADJ LAB/my-todo/frontend/generated",
+  "pnpm.enable": false,
+  "require.home.node": false,
+  "build.folder": "target"
+}
